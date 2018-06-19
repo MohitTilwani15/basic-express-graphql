@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 11,
+      "name": "Mr Mohit Tilwani",
+      "age": 24,
+      "companyId": 1
+    },
+    {
+      "id": 22,
+      "name": "marko",
+      "age": 29,
+      "companyId": 2
+    },
+    {
+      "id": 33,
+      "name": "harshit",
+      "age": 26,
+      "companyId": 2
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "apple",
+      "description": "iphone"
+    },
+    {
+      "id": 2,
+      "name": "google",
+      "description": "google"
+    }
+  ]
+}
